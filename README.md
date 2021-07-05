@@ -1,5 +1,5 @@
-# paper.dash.org
-JavaScript Client-Side Dash Wallet Generator
+# paper.amerocrypto.com
+JavaScript Client-Side Amero Wallet Generator
 
 Now Dash addresses and their corresponding private key can be conveniently
 generated in a web browser.
@@ -30,9 +30,6 @@ XMLHttpRequest's (no AJAX). The benefit of this technique is you can load the
 JavaScript locally and trust that the JavaScript did not change after being
 loaded.
 
-Here is a link to the BitcoinTalk.org forum topic discussing original project:
-https://bitcointalk.org/index.php?topic=43496.0
-
 
 Please send DONATIONS for original project to Bitcoin Address:
 1NiNja1bUmhSoTXozBRBEtR8LeF9TGbZBN
@@ -55,10 +52,10 @@ END USER NOTES:
 
 Notice of Copyrights and Licenses:
 ---------------------------------------
-The paper.dash.org project, software and embedded resources are
-copyright The Dash Developers.
+The paper.amerocrypto.com project, software and embedded resources are
+copyright The Amero Developers.
 
-The paper.dash.org name, Dash name and logo are not part of the open source
+The paper.amerocrypto.com name, Amero name and logo are not part of the open source
 license.
 
 The bitaddress.org project, software and embedded resources are
