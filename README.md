@@ -1,7 +1,7 @@
 # paper.amerocrypto.com
 JavaScript Client-Side Amero Wallet Generator
 
-Now Dash addresses and their corresponding private key can be conveniently
+Now Amero addresses and their corresponding private key can be conveniently
 generated in a web browser.
 
 ## Installation
